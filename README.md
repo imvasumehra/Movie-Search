@@ -1,6 +1,6 @@
 # Movie-Search
 > let's you search movies with a keyword
-**Badges will go here**
+
 - this web app uses omdb api
 - the app is hosted on local server
 - the repository can be downloaded and app can be run on console
